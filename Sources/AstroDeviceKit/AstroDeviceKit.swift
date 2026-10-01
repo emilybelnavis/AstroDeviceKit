@@ -1,0 +1,4 @@
+/// Namespace for AstroDeviceKit.
+public enum AstroDeviceKit {
+    public static let scaffoldVersion = "0.0.1"
+}
